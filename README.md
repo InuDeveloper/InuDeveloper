@@ -1,4 +1,4 @@
-# InuDev 🐾
+# InuzDev 🐾
 
 ## Who I am
 
